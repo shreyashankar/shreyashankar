@@ -1,4 +1,4 @@
-### Hello friends! 👋
+### Hello friends! 👋	👩🏾‍💻
 
 - 🔭 I’m currently working as a machine learning engineer at [Viaduct](https://www.viaduct.ai/), a startup that applies machine learning to car data.
 - 🌱 I’m currently learning how to operationalize machine learning!
